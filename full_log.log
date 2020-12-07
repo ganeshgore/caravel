@@ -1,0 +1,6 @@
+FULL RUN LOG:
+ Uncompressing the gds files
+Step 0 done without fatal errors.
+ Executing Step 1 of 4: Checking License files.
+{{LICENSE COMPLIANCE FAILED}} A LICENSE file was not found in project root.
+TEST FAILED AT STEP 1
